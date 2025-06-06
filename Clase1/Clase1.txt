@@ -1,0 +1,5 @@
+Queremos diseñar un algoritmo para calentar la comida utilizando un microondas.
+
+Entrada: Comida.
+Proceso: Calienta la comida durante el tiempo configurado.
+Salida: Comida calentada.

@@ -1,0 +1,16 @@
+1) Si no llueve y tengo ganas voy a jugar al fútbol.
+Si llueve y no tengo ganas no voy a jugar al fútbol.
+
+2) def saludar(nombre): Define una función llamada saludar que recibe un parámetro llamado nombre.
+
+mensaje = f"Hola, {nombre}!"  -> Crea un mensaje personalizado utilizando una f-string (formato de cadena).
+
+return mensaje -> Devuelve el mensaje generado.
+
+3) Esta función calcula el monto del IVA (21%) sobre un precio dado.
+ 
+Parámetro: precio -> El valor base al que se le aplicará el IVA.
+
+Cálculo: Multiplica el precio por 21 y divide por 100 (precio * 21/100).
+
+Retorna: El valor correspondiente al 21% del precio.
