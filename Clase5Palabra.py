@@ -5,3 +5,4 @@ def contar_apariciones(palabra, letra):
 
 # Ejemplo de uso
 contar_apariciones("programacion", "o")  # Resultado: 2
+
